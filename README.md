@@ -1,6 +1,6 @@
 ## Olá, mundo!
 
-Me chamo Fernanda, sou estudante de Desenvolvimento Web FullStack focado em Java pelo Generation Brasil. 
+Me chamo Fernanda, sou estudante de Desenvolvimento Web FullStack focado em Java pela Generation Brasil. 
 
 ✨
 
