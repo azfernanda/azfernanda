@@ -4,6 +4,8 @@ Meu primeiro curso na área de programação foi o [Eu ProgrAmo](https://www.pro
 Atualmente, graças a uma bolsa integral, sou aluna do [bootcamp de Engenharia de Dados da How](https://howedu.com.br/cohort/engenharia-de-dados/) e estou concluindo o [FAST](https://www.cesar.school/fast/), programa de formação acelerada da César School, onde participo da trilha de Testes Automatizados. 
 Além disso, sou bacharelanda em Gestão da Informação pela UFPE, onde entrei na primeira entrada de 2021. 
 
+✨
+
 _gosto de esfiha, coca-cola e filmes de terror duvidosos_ 
 
 ✨
